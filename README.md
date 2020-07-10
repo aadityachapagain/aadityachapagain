@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aaditya chapagain an AI, Neuroscience enthisiast and DeepLearning practitioner.
+### Hi there 👋, I'm Aaditya chapagain an AI, Neuroscience enthisiast and DeepLearning practitioner.
 
 <!--
 **aadityachapagain/aadityachapagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
