@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fundamental concepts of speech Recognition system and word discovery mechanism of human brain.
 - 📫 I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
 <!-- - ⚡ Fun fact: ... -->
+- You can see my resume [here](https://github.com/aadityachapagain/aadityachapagain/blob/master/assets/Resume.pdf).
