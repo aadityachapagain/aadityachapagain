@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
 <!-- - ⚡ Fun fact: ... -->
 - You can see my resume [here](https://github.com/aadityachapagain/aadityachapagain/blob/master/assets/Resume.pdf).
-[![Linkedin: aaditya](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)]
+
 [![HitCount](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain.svg)](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain)
 
 ### My Blog posts
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - [Build Conversational Reddit Dataset using Google DataFlow and Big Query](https://aadityachapagain.com/2020/08/build-reddit-datasets)
 - [Speech Signal Processing using python](https://aadityachapagain.com/2020/08/asr-mfcc-filterbanks)
 <!-- BLOG-POST-LIST:END -->
+
+![Aaditya's Github Stats](https://github-readme-stats.vercel.app/api?username=aadityachapagain)
