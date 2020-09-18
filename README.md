@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 - You can see my resume [here](https://github.com/aadityachapagain/aadityachapagain/blob/master/assets/Resume.pdf).
 
-[![HitCount](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain.svg)](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain)
+[![HitCount](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain.svg)](http://hits.dwyl.com/aadityachapagain/aadityachapagain/aadityachapagain)[![HitCount](http://hits.dwyl.com/aadityachapagain/aadityachapagain/Facial_Recognition_System.svg)](http://hits.dwyl.com/aadityachapagain/aadityachapagain/Facial_Recognition_System)
 
 ### My Blog posts
 - [Distributed Training of Deep Learning model with Slurm on GCP](https://aadityachapagain.com/2020/09/distributed-training-with-slurm-on-gcp)
