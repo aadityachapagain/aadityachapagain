@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on computational model simulation of word discovery and signal segmentation inside human temporal lobe, I think which might revolutionize Acoustic model in fields of deep learning. 
-- 🌱 I’m currently learning fundamental concepts of speech Recognition system and word discovery mechanism of human brain.
-- 📫 I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
+- 🔭 Currently working on conversational agent, chatbot saftey.
+- currently learning concepts of speech Recognition system , conversational chatbot agents.
+- I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
 <!-- - ⚡ Fun fact: ... -->
 - You can see my resume [here](https://github.com/aadityachapagain/aadityachapagain/blob/master/assets/Resume.pdf).
 
