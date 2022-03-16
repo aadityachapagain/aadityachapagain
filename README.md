@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Aaditya chapagain an AI, Neuroscience enthisiast and DeepLearning practitioner.
+### Hi there 👋, I'm Aaditya chapagain an AI and DeepLearning practitioner.
 
 <!--
 **aadityachapagain/aadityachapagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 Currently working on conversational agent, chatbot saftey.
-- currently learning concepts of speech Recognition system , conversational chatbot agents.
+- 🔭 Currently working on conversational agent, chatbot saftey and Reinforcement Learning.
+- Mostly Interested in chatbots , NLU and optmizations.
 - I would love to connect with you on [LinkedIn](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
 <!-- - ⚡ Fun fact: ... -->
 - You can see my resume [here](https://github.com/aadityachapagain/aadityachapagain/blob/master/assets/Resume.pdf).
